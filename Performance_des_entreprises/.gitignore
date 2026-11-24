@@ -1,0 +1,17 @@
+# Données : ne jamais publier (microdonnées RGE 2016, ANSD)
+data/*
+!data/.gitkeep
+*.dta
+*.sav
+*.pkl
+*.parquet
+*.csv
+!output/tableaux/*.csv
+*.xlsx
+!output/*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
