@@ -1,0 +1,20 @@
+# Manuels de référence (téléchargeables gratuitement, voir README)
+readings/*.pdf
+
+# Fichiers temporaires R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*_cache/
+*_files/
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers produits par le pipeline (régénérés par run_all.R)
+data/ehcvm2_*_renamed.csv
+data/ehcvm2_*_clean.csv
+data/ehcvm2_merged.csv
+*.log

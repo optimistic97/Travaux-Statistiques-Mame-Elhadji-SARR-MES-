@@ -1,0 +1,77 @@
+var_name,label_init
+c_typehousing,Low house (Maison Basse)
+c_typehousing,Single-story house(Maison à Etage)
+c_typehousing,Shack/Hut (Baraque/Case)
+c_typehousing,Apartment (Appartement dans un immeuble)
+c_housingocup,Owner or co-owner with title
+c_housingocup,Owner or co-owner without title
+c_housingocup,Renter
+c_housingocup,Other (including lodgment for employment or free)
+c_walls,"Cement and bricks (ciment, beton , pierres, briques cuites)"
+c_walls,Clay Soil (Banco amélioré/ semi-dur)
+c_walls,"Straw, Recycled (Paille, planches, toles)"
+c_walls,"Other (stones, not protected)"
+c_roof,Cement slab (Dalle en ciment)
+c_roof,Tiles (Tuile)
+c_roof,Sheet metal (Toles)
+c_roof,Straw (Paille)
+c_roof,"Other (Banco, chaume, nattes, autre)"
+c_floor,Cement (Ciment)
+c_floor,Tiles (Carreux)
+c_floor,Clay soil and sand (Terre battue/Sable)
+c_floor,Other (Bouse d'animaux)
+c_water_dry,"Court or dwelling faucet (Robinet ... loge, cour, voisin)"
+c_water_dry,Pub Faucet (voisin and public)
+c_water_dry,Protected well (Puits couvert)
+c_water_dry,Unprotected well (Puits ouvert)
+c_water_dry,Drilling (Forage)
+c_water_dry,"Mineral water (schet, bouteille, vendeur)"
+c_water_dry,"Fluvial, source developed (Spring)"
+c_water_dry,Other
+c_water_rainy,"Court or dwelling faucet (Robinet ... loge, cour, voisin)"
+c_water_rainy,Pub Faucet (voisin and public)
+c_water_rainy,Protected well (Puits couvert)
+c_water_rainy,Unprotected well (Puits ouvert)
+c_water_rainy,Drilling (Forage)
+c_water_rainy,"Mineral water (schet, bouteille, vendeur)"
+c_water_rainy,"Fluvial, source developed (Spring)"
+c_water_rainy,Other
+c_lighting,Network and generator (Electricité réseau)
+c_lighting,Solar (solaire)
+c_lighting,Petrol lamp (Lampe petrol)
+c_lighting,Rechargeable lamp(pile solaire)
+c_lighting,"Wood others (Paraffine, bois, planche)"
+c_lighting,Other
+c_lighting,Mising
+region,DAKAR
+region,ZIGUINCHOR
+region,DIOURBEL
+region,SAINT-LOUIS
+region,TAMBACOUNDA
+region,KAOLACK
+region,THIES
+region,LOUGA
+region,FATICK
+region,KOLDA
+region,MATAM
+region,KAFFRINE
+region,KEDOUGOU
+region,SEDHIOU
+milieu,Urbain
+milieu,Rural
+dem_hgender,Masculin
+dem_hgender,Féminin
+dem_hmstat,Marié(e) monogame
+dem_hmstat,Veuf(ve)
+dem_hmstat,"Other: Célibataire, Divorcé(e), Séparé(e)"
+dem_hmstat,Marié(e) polygame &  Union libre
+dem_heduc,Aucun/Maternelle
+dem_heduc,Primaire
+dem_heduc,Second. gl 1/ gl 2/ tech. 1/ tech. 2
+dem_heduc, Postsecondaire/Superior
+dem_branch, Agriculture
+dem_branch,"Livestock, forestry and fishing"
+dem_branch,"Mining, Manufacturing, Electricity and  Construction"
+dem_branch,Retail and Wholesale
+dem_branch,"Rest of services (Transport, communication, education, health"
+dem_branch,Missing info
